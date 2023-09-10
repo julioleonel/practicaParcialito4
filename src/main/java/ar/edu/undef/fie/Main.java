@@ -5,8 +5,8 @@ public class Main {
 
         int [] arreglo = {4, 3, 7, 8, 2, 1};
 
-        int min = arreglo[0];
-        int max = arreglo[0];
+        var min = arreglo[0];
+        var max = arreglo[0];
 
 
         for (var numero : arreglo){
